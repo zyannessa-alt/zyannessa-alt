@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - 🤔 I'm looking for help with HTML, CSS, and JavaScript
 - 💬 Ask me about coding, web design
 - ⚡ Fun fact: I love coffee
+- 
 ![cool](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWNvdXh3b3M5OHoyNm1icW9iejdxM2ZoZnc5dzlldGkyMXd1d3I0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PzMHYQJnuKbenMrXu9/giphy.gif)
