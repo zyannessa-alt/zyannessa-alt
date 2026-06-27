@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello word! Im zyannessa👋
 
 <!--
 **zyannessa-alt/zyannessa-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I'm currently working on improving my web development skills
+- 🌱 I'm currently learning HTML, Python, and JavaScript
+- 👯 I'm looking to collaborate on web development projects
+- 🤔 I'm looking for help with HTML, CSS, and JavaScript
+- 💬 Ask me about coding, web design
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love coffee
+![cool](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aWNvdXh3b3M5OHoyNm1icW9iejdxM2ZoZnc5dzlldGkyMXd1d3I0YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PzMHYQJnuKbenMrXu9/giphy.gif)
